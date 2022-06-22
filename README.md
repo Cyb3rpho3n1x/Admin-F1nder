@@ -5,7 +5,7 @@
 
 ## Quick Intro:
 
-### - Ever wondered how to find the admin panel on python? Here is our quick and easy solution, Admin-F.
+### - Ever wondered how to find the admin panel using python with just few simple clicks? Here is our quick and easy solution, Admin-F.
 
 ---
 
@@ -24,8 +24,8 @@
 
 ## Known issues with this tool
 
-### - Can cause errors when the required data is wrong.
-### - Hard to use for the people new at python.
+### - Can cause errors and incorrect data when the required data is wrong or invalid.
+### - Hard to use for some people new at python.
 
 ---
 
@@ -40,7 +40,7 @@
 ## Notes before use
 
 ### - This tool is made for the sole purpose of penetration testing and NOT to be use in any other illegal ways. Get the hell out of here if you will just use this on other NOT intended usage.
-### - Developers for this tool is not "responsible" for any realable lawsuits, damges and more caused by the third-party users (you). 
+### - Developers for this tool is not "responsible" for any realable lawsuits, damges and more caused by the third-party and end users like you. 
 ### - This repo is protected under creative commons. Usage of this tool is listed bellow.
 ### - Have a wonderful day.
 
